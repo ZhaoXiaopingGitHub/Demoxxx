@@ -1,0 +1,13 @@
+E:\VSCode\GDI\GdiDemo\GdiDemo\bin\Debug\GdiDemo.exe.config
+E:\VSCode\GDI\GdiDemo\GdiDemo\bin\Debug\GdiDemo.exe
+E:\VSCode\GDI\GdiDemo\GdiDemo\bin\Debug\GdiDemo.pdb
+E:\VSCode\GDI\GdiDemo\GdiDemo\bin\Debug\WindowsFormsControlPro.dll
+E:\VSCode\GDI\GdiDemo\GdiDemo\bin\Debug\WindowsFormsControlPro.pdb
+E:\VSCode\GDI\GdiDemo\GdiDemo\obj\Debug\GdiDemo.csprojAssemblyReference.cache
+E:\VSCode\GDI\GdiDemo\GdiDemo\obj\Debug\GdiDemo.Form1.resources
+E:\VSCode\GDI\GdiDemo\GdiDemo\obj\Debug\GdiDemo.Properties.Resources.resources
+E:\VSCode\GDI\GdiDemo\GdiDemo\obj\Debug\GdiDemo.csproj.GenerateResource.cache
+E:\VSCode\GDI\GdiDemo\GdiDemo\obj\Debug\GdiDemo.csproj.CoreCompileInputs.cache
+E:\VSCode\GDI\GdiDemo\GdiDemo\obj\Debug\GdiDemo.csproj.CopyComplete
+E:\VSCode\GDI\GdiDemo\GdiDemo\obj\Debug\GdiDemo.exe
+E:\VSCode\GDI\GdiDemo\GdiDemo\obj\Debug\GdiDemo.pdb

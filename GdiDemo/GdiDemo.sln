@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GdiDemo", "GdiDemo\GdiDemo.csproj", "{13D6A55A-A890-4193-AC88-3DA9F7CA1460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsControlPro", "WindowsFormsControlPro\WindowsFormsControlPro.csproj", "{462E54B7-FF7F-4B19-996B-F3FA2910C0EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D6A55A-A890-4193-AC88-3DA9F7CA1460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D6A55A-A890-4193-AC88-3DA9F7CA1460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D6A55A-A890-4193-AC88-3DA9F7CA1460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D6A55A-A890-4193-AC88-3DA9F7CA1460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462E54B7-FF7F-4B19-996B-F3FA2910C0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462E54B7-FF7F-4B19-996B-F3FA2910C0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462E54B7-FF7F-4B19-996B-F3FA2910C0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462E54B7-FF7F-4B19-996B-F3FA2910C0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FB094CF-E5B8-4783-8DF5-45A4DD8F42FC}
+	EndGlobalSection
+EndGlobal

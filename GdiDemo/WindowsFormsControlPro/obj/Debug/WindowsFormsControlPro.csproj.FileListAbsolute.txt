@@ -1,0 +1,6 @@
+E:\VSCode\GDI\GdiDemo\WindowsFormsControlPro\bin\Debug\WindowsFormsControlPro.dll
+E:\VSCode\GDI\GdiDemo\WindowsFormsControlPro\bin\Debug\WindowsFormsControlPro.pdb
+E:\VSCode\GDI\GdiDemo\WindowsFormsControlPro\obj\Debug\WindowsFormsControlPro.csproj.CoreCompileInputs.cache
+E:\VSCode\GDI\GdiDemo\WindowsFormsControlPro\obj\Debug\WindowsFormsControlPro.dll
+E:\VSCode\GDI\GdiDemo\WindowsFormsControlPro\obj\Debug\WindowsFormsControlPro.pdb
+E:\VSCode\GDI\GdiDemo\WindowsFormsControlPro\obj\Debug\WindowsFormsControlPro.csprojAssemblyReference.cache
